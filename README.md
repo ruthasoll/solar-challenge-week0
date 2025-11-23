@@ -1,4 +1,5 @@
-# solar-challenge-week1
+# solar-challenge-week0
+
 week 0 task 
 
 ## Objective
